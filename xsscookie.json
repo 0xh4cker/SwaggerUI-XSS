@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/0xh4cker/SwaggerUI-XSS/raw/main/xsscookie.yaml",
+    "urls": [
+        {
+            "url": "https://github.com/0xh4cker/SwaggerUI-XSS/raw/main/xsscookie.yaml",
+            "name": "Foo"
+        }
+    ]
+}

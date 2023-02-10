@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/0xh4cker/SwaggerUI-XSS/raw/main/xssdomain.yaml",
+    "urls": [
+        {
+            "url": "https://github.com/0xh4cker/SwaggerUI-XSS/raw/main/xssdomain.yaml",
+            "name": "Foo"
+        }
+    ]
+}
