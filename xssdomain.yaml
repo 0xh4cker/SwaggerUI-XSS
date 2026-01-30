@@ -1,4 +1,4 @@
-swagger: '3.0'
+swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
@@ -8261,3 +8261,4 @@ tags:
   - description: Operations on webhooks
 
     name: webhooks
+
